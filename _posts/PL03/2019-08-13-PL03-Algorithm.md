@@ -5,7 +5,7 @@ categories: [PL03]
 comments : true
 tags : [PL03]
 ---
-[Back to the previous page](https://userdyk-github.github.io/Study.html) ｜ <a href="https://userdyk-github.github.io/pl03/PL03-Contents.html">Python</a>  <br>
+[Back to the previous page](https://userdyk-github.github.io/Study.html) ｜ <a href="https://github.com/userdyk-github/userdyk-github.github.io/blob/master/_posts/PL03/2019-08-13-PL03-Algorithm.md" target="_blank">page management</a>|<a href="https://userdyk-github.github.io/pl03/PL03-Contents.html">Python</a>  <br>
 List of posts to read before reading this article
 - <a href='https://userdyk-github.github.io/'>post1</a>
 - <a href='https://userdyk-github.github.io/'>post2</a>
